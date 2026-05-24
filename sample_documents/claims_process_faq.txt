@@ -1,0 +1,45 @@
+Document: SecureLife Claims Process and FAQ
+Version: 1.0
+Effective date: 2026-01-01
+
+1. How to Submit a Claim
+Customers can submit claims through the SecureLife customer portal, mobile app, branch office, or email support. The claim should include the policy number, incident date, claim type, and supporting documents.
+
+2. Claim Review Steps
+Step 1: Customer submits claim and documents.
+Step 2: SecureLife sends claim reference number.
+Step 3: Claims team reviews documents and policy coverage.
+Step 4: Additional information may be requested.
+Step 5: Approved claims are paid, reimbursed, or directed to service providers.
+Step 6: Rejected claims include a written reason based on policy terms.
+
+3. Claim Timeline
+Simple reimbursement claims are usually reviewed within 5 to 10 business days after all required documents are received. Complex claims, missing documents, suspected fraud, legal review, or third-party recovery may take longer.
+
+4. Missing Documents
+If documents are missing, the claim status remains pending. The customer should submit the missing documents within 30 days of the request unless SecureLife grants an extension.
+
+5. Can the Chatbot Approve a Claim?
+No. The chatbot cannot approve or reject claims. It can explain the claim process, list documents, and identify relevant policy sections. Final decisions are made by the SecureLife claims department.
+
+6. How to Check Claim Status
+Customers can check claim status using the customer portal, mobile app, or by contacting customer support with the claim reference number. The chatbot can explain status meanings but cannot access private claim records unless integrated with SecureLife systems.
+
+7. Claim Status Meanings
+- Submitted: claim has been received.
+- Pending documents: customer must provide missing documents.
+- Under review: claims team is reviewing coverage and documents.
+- Approved: claim is accepted according to policy terms.
+- Settled: payment or service settlement has been completed.
+- Rejected: claim was declined and a reason was provided.
+
+8. Fraud Warning
+Providing false information, fake documents, or misleading details may result in claim rejection, policy cancellation, and legal action.
+
+9. When to Escalate to a Human Agent
+Escalation is required when:
+- The customer disputes a claim rejection
+- The customer reports an emergency
+- The customer asks for legal interpretation
+- The customer shares sensitive medical or identity information
+- The customer asks for a final claim decision

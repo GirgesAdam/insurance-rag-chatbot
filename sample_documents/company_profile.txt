@@ -1,0 +1,26 @@
+Document: SecureLife Insurance Company Profile
+Version: 1.0
+Effective date: 2026-01-01
+Company: SecureLife Insurance LLC (fictional)
+
+SecureLife Insurance is a fictional insurance provider offering motor, health, and travel insurance products for individuals and families. The company provides customer support through phone, email, branch offices, and online chat.
+
+Customer Support Hours:
+- Sunday to Thursday: 9:00 AM to 6:00 PM
+- Friday and Saturday: Closed except for emergency motor claim reporting
+- Emergency motor claims hotline: available 24/7
+
+Supported Products:
+1. Motor Comprehensive Insurance
+2. Health Gold Insurance
+3. Travel Protect Insurance
+
+General Customer Support Rules:
+- The customer should provide their policy number when asking about an active policy.
+- The chatbot can explain general policy wording, required documents, claim process, and exclusions.
+- The chatbot must not guarantee claim approval.
+- Final claim decisions are made by SecureLife's claims department after reviewing documents.
+- The chatbot should escalate urgent, disputed, or legally sensitive questions to a human support agent.
+
+Data Privacy Notice:
+Customers should not share sensitive personal data in chat unless the chat system is verified and secure. Sensitive data includes national ID number, full card number, medical reports, and bank details.

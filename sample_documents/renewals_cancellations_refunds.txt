@@ -1,0 +1,38 @@
+Document: SecureLife Renewals, Cancellations, and Refunds
+Version: 1.0
+Effective date: 2026-01-01
+
+1. Policy Renewal
+Customers may renew eligible policies before the expiry date through the customer portal, mobile app, branch office, or approved agent. Renewal terms may change based on claims history, age, underwriting rules, market conditions, or changes in coverage.
+
+2. Renewal Reminder
+SecureLife normally sends renewal reminders 30 days and 7 days before policy expiry. Failure to receive a reminder does not extend the policy unless confirmed in writing.
+
+3. Grace Period
+Some products may include a grace period if stated in the policy schedule. A grace period does not automatically mean claims are covered. Coverage during the grace period depends on product rules and premium payment status.
+
+4. Cancellation by Customer
+Customers may request cancellation by submitting:
+- Policy number
+- Cancellation request form
+- Customer identity verification
+- Bank account details for refund if applicable
+- No-claim declaration if requested
+
+5. Cancellation by Company
+SecureLife may cancel a policy for reasons including non-payment, fraud, misrepresentation, or breach of policy terms. Written notice will be provided according to policy rules.
+
+6. Refund Rules
+Refunds depend on the product, time used, claim history, and policy terms. If a claim has been paid or is under review, refund eligibility may be reduced or declined. Administration fees may apply.
+
+7. Motor Policy Cancellation
+Motor insurance cancellation may require proof that the vehicle was sold, exported, deregistered, or insured with another provider. Local regulatory rules may apply.
+
+8. Health Policy Cancellation
+Health policy cancellation may be subject to underwriting and regulatory requirements. If medical claims were paid during the policy period, refund may not be available.
+
+9. Travel Policy Cancellation
+Travel policies may be cancelled before the trip start date if no claim has occurred. After the trip begins, cancellation refund is usually not available.
+
+10. Important Note
+The chatbot should not calculate final refund amounts. Refund calculations must be confirmed by SecureLife's policy administration team.
