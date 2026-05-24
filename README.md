@@ -125,28 +125,3 @@ For this demo version, the Admin Portal is open locally. If this project is depl
 
 ---
 
-## Project Structure
-
-```text
-securelife-assist/
-│
-├── streamlit_app.py
-├── main.py
-├── admin.py
-├── database.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── .env.example
-│
-├── data/
-│   └── sample_documents/
-│       ├── claims_process_faq.txt
-│       ├── company_profile.txt
-│       ├── complaints_escalation.txt
-│       ├── motor_comprehensive_policy.txt
-│       └── renewals_cancellations_refunds.txt
-│
-└── screenshots/
-    ├── chatbot.png
-    └── admin_portal.png
